@@ -14,8 +14,7 @@ Credit card fraud can happen in many ways. Fraudsters can get your information t
 **And once the details are stolen, it is very easy to do a transaction using that information. Hence, it is necessary to be able to detect these kind of transactions and intervene to prevent fraud.**
 
 **Problem statement:<br/>**
-**The aim of the project is to predict fraudulent credit card transactions using machine learning models.<br/><br/>
-
+**The aim of the project is to predict fraudulent credit card transactions using machine learning models.<br/>
 This is crucial from the bank’s as well as customer’s perspective.<br/>
 
 The banks cannot afford to lose their customers’ money to fraudsters.<br/>
@@ -29,8 +28,8 @@ The dataset is highly unbalanced, the positive class (frauds) account for 0.172%
 We need to take care of the data imbalance while building the model and come up with the best model by trying various algorithms.**<br/>
 
 **Steps:**<br/><br/>
-The steps are broadly divided into below steps. The sub steps are also listed while we approach each of the steps.<br/>
+The steps are broadly divided into below steps. The sub steps are also listed while we approach each of the steps.<br/><br/>
 1.Reading, understanding and visualising the data<br/><br/>
 2.Preparing the data for modelling<br/><br/>
 3.Building the <br/><br/>
-4.Evaluate the model<br/>
+4.Evaluate the model<br/><br/>
