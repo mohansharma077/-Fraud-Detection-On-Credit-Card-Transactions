@@ -36,5 +36,5 @@ We need to take care of the data imbalance while building the model and come up 
 The steps are broadly divided into below steps. The sub steps are also listed while we approach each of the steps.<br/><br/>
 1.Reading, understanding and visualising the data<br/><br/>
 2.Preparing the data for modelling<br/><br/>
-3.Building the <br/><br/>
+3.Building the model <br/><br/>
 4.Evaluate the model<br/><br/>
