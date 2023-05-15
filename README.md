@@ -28,9 +28,8 @@ The dataset is highly unbalanced, the positive class (frauds) account for 0.172%
 
 We need to take care of the data imbalance while building the model and come up with the best model by trying various algorithms.**<br/>
 
-**Steps:**<br/>
+**Steps:**<br/><br/>
 The steps are broadly divided into below steps. The sub steps are also listed while we approach each of the steps.<br/>
-<br/>
 1.Reading, understanding and visualising the data<br/><br/>
 2.Preparing the data for modelling<br/><br/>
 3.Building the <br/><br/>
